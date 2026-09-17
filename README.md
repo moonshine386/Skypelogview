@@ -217,3 +217,6 @@ SkypeLogView is provided as a full free version, with all features and updates i
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 Experience the power of managing your Skype conversation history effortlessly. **Download SkypeLogView today and take control of your communication!**
+
+---
+**Last updated:** 2026-09-17 15:27:53 UTC
